@@ -1,0 +1,12 @@
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 1','participant1@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 2','participant2@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 3','participant3@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 4','participant4@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 5','participant5@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 6','participant6@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 7','participant7@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 8','participant8@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 9','participant9@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 10','participant10@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 11','participant11@dummy.com',CURDATE(),CURDATE());
+INSERT INTO `participant`(`participant_name`, `participant_email`, `creation_date`, `modification_date`) VALUES ('Particpant 12','participant12@dummy.com',CURDATE(),CURDATE());
